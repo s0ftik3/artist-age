@@ -1,0 +1,19 @@
+{
+  "name": "artist-age",
+  "version": "2.0.1",
+  "description": "A little function that shows some artist's age when he published a certain song.",
+  "main": "index.mjs",
+  "repository": "https://github.com/s0ftik3/artist-age.git",
+  "type": "module",
+  "@std/esm": "cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "softik",
+  "license": "ISC",
+  "dependencies": {
+    "@std/esm": "^0.26.0",
+    "axios": "^0.19.2",
+    "wikijs": "^6.0.1"
+  }
+}
