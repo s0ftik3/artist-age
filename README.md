@@ -12,7 +12,7 @@ Open `config.json` file in `config` directory and replace token's value. You hav
 
 Open `index.js` file and replace example song's name and artist's name to ones you want.
 
-After you did all the stuff above, you can just open terminal and run `node -r @std/esm index.mjs`.
+After you did all the stuff above, you can just open terminal and run `npm start`.
 
 # Contacts
 
